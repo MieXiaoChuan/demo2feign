@@ -1,0 +1,5 @@
+
+
+###
+GET http://localhost:8080/feign/value/industry/risk
+
