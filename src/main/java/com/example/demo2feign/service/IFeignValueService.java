@@ -1,4 +1,4 @@
-package com.example.demo2feign.controller.service;
+package com.example.demo2feign.service;
 
 import com.example.demo2feign.dto.Result;
 import lombok.Value;

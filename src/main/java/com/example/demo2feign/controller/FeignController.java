@@ -1,6 +1,6 @@
 package com.example.demo2feign.controller;
 
-import com.example.demo2feign.controller.service.IFeignService;
+import com.example.demo2feign.service.IFeignService;
 import com.example.demo2feign.dto.Result;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.GetMapping;
